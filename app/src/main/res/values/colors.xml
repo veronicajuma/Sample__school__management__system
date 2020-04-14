@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+<color name="dividerColor">#27314E</color>
+    <color name="colorbackground">#262E47</color>
+    <color name="navcolor">#ffff</color>
+    <color name="textcolor">#0a0a09</color>
+    <color name="income">#2A631E</color>
+    <color name="expenses">#1b469d</color>
+    <color name="students">#E61029</color>
+<color name="attendance">#3b3d64</color>
+    <color name="calendar">#B4B1B1</color>
+</resources>

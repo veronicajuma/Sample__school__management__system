@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample school management system</string>
+    <string name="drawerClose">drawerClose</string>
+    <string name="drawerOpen">drawerOpen</string>
+</resources>
